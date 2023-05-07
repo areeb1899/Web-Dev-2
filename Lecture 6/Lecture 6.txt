@@ -1,0 +1,23 @@
+1.Transform
+ 1.1 Rotate
+ 1.2 Translate
+ 1.3 Skew
+ 1.4 Scale
+
+2. 3D card
+
+3. Responsive Design
+
+3.1
+  3.1.1 Meida Queries 
+    syntax @media screen and (max-width:600px) 
+
+    two component
+    -Media Type
+      -Screen 
+      -Print
+      -All
+    -Media Property
+      - Width
+      -Height
+      resolution

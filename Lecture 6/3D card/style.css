@@ -1,0 +1,45 @@
+body{
+    perspective: 800px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.container{
+    height:300px;
+    width:400px;
+    border:2px solid black;
+    margin:0 auto; 
+    position: relative;
+    transition-duration: 3s;
+    transform-style: preserve-3d;
+}
+
+.side-A, .side-B{
+    color:white;
+    
+}
+.side-A{
+background-color:blue;
+background: url(https://images.indianexpress.com/2022/09/Collage-Maker-01-Sep-2022-07.03-PM.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+.side-B{
+font-size: 20px;
+background-color: orange;
+height:100%;
+width:100%;
+transform: rotateY(180deg);
+position: absolute;
+backface-visibility: hidden;
+}
+
+.container:hover{
+    transform: rotateY(180deg);
+}

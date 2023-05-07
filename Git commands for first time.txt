@@ -1,0 +1,9 @@
+git init
+
+git add.
+
+git commit -m"   "
+
+git remote and origin <link>
+
+git push-u origin master

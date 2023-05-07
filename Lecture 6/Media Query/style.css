@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    width:60%;
+    border:2px solid red;
+    padding:10px;
+    margin:auto;
+}
+
+
+@media screen and (max-width:900px){
+    .container{
+        width:80%;
+    }
+}
+
+
+@media screen and (max-width:500px){
+    .container{
+        width:100%;
+    }
+}
