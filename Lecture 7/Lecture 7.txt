@@ -1,0 +1,20 @@
+1. Animations
+   @keyframes name {
+    from{
+        border-radius: 0%;
+    }
+
+    to{
+    border-radius: 50%;
+    }
+
+   }
+
+*animation-fill-mode = it stops the movement at the end.
+
+2. Animation Timing functions
+
+2.1 linear 
+2.2 ease-in
+2.3 ease-out
+2.4 ease-in-out
