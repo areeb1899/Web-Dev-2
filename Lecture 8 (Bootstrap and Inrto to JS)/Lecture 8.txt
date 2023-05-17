@@ -1,0 +1,16 @@
+1.Bootstrap
+CDN (content delivery network)
+padding top 
+pt- (values 1 to 5)
+pb
+ps
+pe
+
+px- padding top and bottom (1 to 5)
+
+
+2. Intro to JS-
+browser has two engine 
+layout and JS
+
+data types
