@@ -1,0 +1,77 @@
+String-
+.toUpperCse()
+.toLowerCase()
+.indexOf()
+.replace()
+.replaceAll()
+.split()
+
+
+Weakly type and Strongly type language-
+
+JS, Python               C++, Java
+
+var a=10;                
+
+
+Loops-
+Simple loop:-
+   for(var a=0l, a<10; a++)
+
+
+
+Execution context || Hoisting-
+
+- Call Stack (thread of execution)
+
+
+Strong equality vs Loose equality-
+
+a=10  , b=10 
+
+a==b will give true value;
+
+a===b will give true value;
+
+but if,
+a=10  , b='10' (b's value is in string)
+
+a==b will give true value 
+
+a===b will give false value as b value is in string. 
+
+
+
+
+
+Lexical Environment-
+
+Scope:-
+1. Functional Scope
+2. Block level Scope
+
+lexical environnment= local memory + parent lexical environment
+
+
+
+let vs Var vs Const-
+recreation
+reinitialization
+
+
+
+Arrow function-
+
+
+
+High Order function-
+
+        accept f()-------f()---returnf()
+
+
+
+
+
+
+
+
