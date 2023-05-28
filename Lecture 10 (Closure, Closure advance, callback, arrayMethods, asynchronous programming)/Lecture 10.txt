@@ -1,0 +1,19 @@
+1. Callback functions
+
+2.Closure
+
+
+3. Array Methods-
+
+  3.1 map ()  returns array
+  3.2 fulter ()  returns array
+  3.3 reduce ()  returns value
+
+4. Asyncrhronous programming
+
+--  Async   --->  Single threaded
+
+--  Sync    --->  Multi threaded 
+
+
+Javascript is single threaded sync language
