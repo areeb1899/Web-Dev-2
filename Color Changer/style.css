@@ -1,0 +1,12 @@
+.container{
+    /* border:2px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+
+.btn{
+    
+    font-size: 2rem;
+}
