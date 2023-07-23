@@ -31,3 +31,13 @@ button:hover {
     box-shadow: 3px 3px 5px black;
 }
 
+#scroll-top{
+    font-size: 2.5rem;
+    margin-right: 50px;
+    cursor: pointer;
+    transition: 500ms;
+}
+
+#scroll-top:hover{
+    transform: scale(1.3);
+}
