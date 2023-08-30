@@ -1,0 +1,5 @@
+1. ways to write async code in sync way
+
+1.1 uisng callback
+1.2 using promises
+1.3 async await
