@@ -1,0 +1,39 @@
+Promises --
+
+Promises are the object.
+
+They represent eventual completion of some event.
+
+Promises go in the Microtask Queue and setTimeout goes to callback Queue. Call Stack gives the priority to Microtask Queue. 
+
+Promise has three stages---
+1. Pending
+2. Resolved(fulfilled)    then()
+3. Rejected              .catch()
+
+There is one more function which is .finally(). It runs on both the cases whether the case is rejected or resolved. 
+
+
+fetch() --
+
+fetch() basically returns a promise.
+
+HTTP response status codes --
+
+Informational responses (100 – 199)
+Successful responses (200 – 299)
+Redirection messages (300 – 399)
+Client error responses (400 – 499)
+Server error responses (500 – 599)
+
+
+
+Async await --
+
+Async returns a promise. 
+Await is always depends on Async function. 
+
+
+
+
+
