@@ -1,0 +1,36 @@
+DOM (Document Object Model)
+
+1.Text Properties in DOM
+
+innerText   -(shows only text but takes care of the styling)
+textContent -(shows text but unaware of the styling)
+innerHTML   -(shows the text with printing the whole elements)
+
+
+2.All CSS properties added in the JS using style attribute create inline CSS in HTML file but it is a bad practice. Using classList method is preferrable.
+
+classList methods--
+add
+remove
+toggle
+contains   Returns true if the list contains a class
+
+3. setAttribute() and getAttribute()
+
+The getAttribute() method returns the value of an element's attribute.
+element.getAttribute(name)
+
+The setAttribute() method sets a new value to an attribute.
+element.setAttribute(name, value)
+
+
+
+
+
+
+
+
+
+
+
+

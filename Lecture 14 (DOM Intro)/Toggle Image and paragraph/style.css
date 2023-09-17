@@ -1,0 +1,17 @@
+.myimg{
+    width:700px;
+    height:500px;
+background-size: cover;
+    background-image: url('https://images.unsplash.com/photo-1658302640117-da5e9d9836cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
+}
+
+.image_toggle{
+    width:700px;
+    height:500px;
+    background-size: cover;
+    background-image: url('https://images.unsplash.com/photo-1694659694812-6d46a6d43040?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80');
+}
+
+.hide-para{
+    display: none;
+}
